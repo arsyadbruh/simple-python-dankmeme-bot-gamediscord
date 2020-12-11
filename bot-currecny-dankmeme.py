@@ -3,7 +3,7 @@ import time
 #import random
 
 time.sleep(3)
-listMeme = ['n','e','r','d']
+#listMeme = ['n','e','r','d']
 
 while True:
     pyautogui.typewrite("pls hunt")
