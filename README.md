@@ -3,8 +3,6 @@
 
 script python sederhana untuk game currency dankmeme pada discord.
 
-
-
 ## Getting Started
 
 ### Prerequisites
@@ -25,8 +23,9 @@ Install beberapa hal dibawah ini sebelum menjalankan programnya
 4. untuk berhenti bisa buka terminal lagi dan tekan `ctrl + c`
 
 ### Configuration
-ada beberapa konfigurasi yang bisa dilakukan
+script ini full konfigurasi jika kalian ingin mengubah sendiri. berikut ada beberapa konfigurasi yang bisa dilakukan
 - bisa memakai random choice daripada terus `repost` untuk post meme
+- ubah jeda waktu. *default sesuai dengan jeda waktu dankmeme normies*
 
 ## Other Information
 ini hanya script simple, banyak kekurannga seperti anda tidak bisa multitasking. jadi jika kalian aktifkan botnya dan anda lagi ngetik laporan di word maka **selamat laporan anda akan penuh spam dari script**
