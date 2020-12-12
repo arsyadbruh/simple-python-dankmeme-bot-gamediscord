@@ -1,4 +1,4 @@
-# simple-python-dankmeme-bot-gamediscord
+# Simple Python DankMeme Bot Discord
 [![python](https://img.shields.io/badge/python-v3.7-blue)](https://www.python.org/downloads/)
 
 script python sederhana untuk game currency dankmeme pada discord.
