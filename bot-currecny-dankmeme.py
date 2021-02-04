@@ -1,3 +1,9 @@
+# Script by Muhamad Arsyad	
+# Github : github.com/arsyadbruh	
+# pip install pyautogui
+# after running, it only has 3 seconds to enter the dank memer channel on discord
+# change time on time.sleep(s)
+
 import pyautogui
 import time
 import random
@@ -18,8 +24,7 @@ while True:
     pyautogui.typewrite("pls pm")
     pyautogui.press("enter")
     time.sleep(2)
-    pyautogui.typewrite(random.choice(listMeme)) #kalau random pakai ini
-    #pyautogui.typewrite('r') #karena saya untungnya di repost (r)
+    pyautogui.typewrite(random.choice(listMeme))
     pyautogui.press("enter")
     time.sleep(2)
     pyautogui.typewrite("pls dep all")
